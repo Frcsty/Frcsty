@@ -22,11 +22,11 @@ and am growing more fond of it as the days pass. <br />
 
 ---
 
-<img align="left" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true" />
+<img align="left" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff" />
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark" />
 
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
