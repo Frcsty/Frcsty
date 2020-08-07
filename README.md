@@ -21,7 +21,7 @@ and am growing more fond of it as the days pass. <br />
 
 ---
 
-<img align="left" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" />
+<img align="left" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> <br />
 
 <br />
 <br />
@@ -29,7 +29,12 @@ and am growing more fond of it as the days pass. <br />
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
