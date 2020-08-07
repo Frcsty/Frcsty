@@ -26,7 +26,7 @@ and am growing more fond of it as the days pass. <br />
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frcsty&repo=github-readme-stats&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&layout=compact&theme=radical" />
 
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
