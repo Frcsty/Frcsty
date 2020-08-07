@@ -14,9 +14,9 @@ and am growing more fond of it as the days pass. <br />
 
 ## Languages And Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://imgur.com/3485KX5.png"/>]
-[<img align="left" alt="Kotlin" width="26px" src="https://imgur.com/mUabFeD.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://imgur.com/9zAOcVa.png" />]
+<img align="left" alt="Java" width="26px" src="https://imgur.com/3485KX5.png"/>
+<img align="left" alt="Kotlin" width="26px" src="https://imgur.com/mUabFeD.png" />
+<img align="left" alt="GitHub" width="26px" src="https://imgur.com/9zAOcVa.png" />
 
 <br />
 
