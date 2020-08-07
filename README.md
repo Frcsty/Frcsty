@@ -7,8 +7,8 @@ I have been activelly involved with development for a litle over a year, <br />
 and am growing more fond of it as the days pass. <br />
 
 ## Contact Me:
-[<img align="left" alt="Frosty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Frosty | Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" />][discord]
+- [<img align="left" alt="Frosty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] @frosty_prime<br />
+- <img align="left" alt="Frosty | Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" /> Frosty#3308
 
 <br />
 <br />
