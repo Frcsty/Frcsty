@@ -7,7 +7,8 @@ I have been activelly involved with development for a litle over a year, <br />
 and am growing more fond of it as the days pass. <br />
 
 ## Contact Me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Frosty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Frosty | Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" />][discord]
 
 <br />
 <br />
@@ -25,3 +26,4 @@ and am growing more fond of it as the days pass. <br />
 <img align="left" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/prime_frosty
+[discord]: Frosty#3308
