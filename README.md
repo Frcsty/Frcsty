@@ -10,7 +10,6 @@ and am growing more fond of it as the days pass. <br />
 - <img align="left" alt="Frosty | Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" /> Frosty#3308
 
 <br />
-<br />
 
 ## Languages And Tools:
 
@@ -26,6 +25,11 @@ and am growing more fond of it as the days pass. <br />
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 <img align="left" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
