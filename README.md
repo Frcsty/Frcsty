@@ -1,4 +1,4 @@
-### Hello there, I'm Frosty
+### Hello there, I'm Frosty <p align="right"> <img src="https://komarev.com/ghpvc/?username=frcsty" alt="frcsty" /> </p>
 
 ## Information:
 My name is Frosty, and I'm an 18 year old developer from Slovenia. I am currently learning Java, <br /> 
