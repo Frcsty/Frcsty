@@ -2,7 +2,7 @@
 
 ## Information:
 My name is Frosty, and I'm an 19 year old developer from Slovenia. I am currently learning Java, <br /> 
-and Kotlin, focusing on the Spigot API. I have been actively involved with development for over a year,<br/>
+and Kotlin, focusing on the Spigot API. I have been actively involved with development for two years,<br/>
 and am growing more fond of it as the days pass. <br />
 
 ## Contact Me:
