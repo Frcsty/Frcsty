@@ -12,8 +12,8 @@ If you wish to contact me, you can do so by either <br>
 
 ---
 
-<img align="left" height="100" width="200" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
-<img align="right" height="100" width="200" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
+<img align="left" height="200" width="400" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
+<img align="left" height="200" width="400" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
