@@ -3,7 +3,7 @@
 ## Information:
 Hello there, my name is Frosty, and I'm a 19 year old student who dabbles with development in his spare time. I have been involved in Minecraft Plugin development for around two years so far, with a hint of non-Minecraft related development as well. During my time learning Java (and some Kotlin as well), I have made countless plugins varying from simple utilities, smaller feature additions, to even full-blown gamemodes. As most of my projects are commissions done for other people, they are not always Open Sourced, however I try my best to share the source if possible. At the current state of time I'm working on my own World Generation implementation using Cubic and Perlin noise, as well as creating content for a server. <br />
 
---
+<br>
 
 ## Contact Me:
 If you wish to contact me, you can do so by either <br>
