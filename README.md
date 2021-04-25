@@ -6,7 +6,9 @@ Hello there, my name is Frosty, and I'm a 19 year old student who dabbles with d
 --
 
 ## Contact Me:
-If you wish to contact me, you can do so by either [Twitter][twitter] @frosty_prime, or [Discord][discord] Frosty#3308 (however using this will most-likely be a faster response)
+If you wish to contact me, you can do so by either <br>
+* [Twitter][twitter] @frosty_prime, or <br>
+* [Discord][discord] Frosty#3308 (however using this will most-likely be a faster response)
 <br />
 
 --
