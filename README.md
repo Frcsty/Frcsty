@@ -11,7 +11,7 @@ If you wish to contact me, you can do so by either <br>
 * [Discord][discord] | Frosty#3308 (however using this will most-likely be a faster response)<br />
 
 ## Organization:
-I am currently a contributor in two organization, first being [https://op65n.org](Op65n) which creates Open Sourced plugins and utilities for a server called Minecraft.si, and the second being [CraftYourTown](https://craftyourtown.com) which is a 1.16 Towny Server.
+I am currently a contributor in two organization, first being [Op65n](https://op65n.org) which creates Open Sourced plugins and utilities for a server called Minecraft.si, and the second being [CraftYourTown](https://craftyourtown.com) which is a 1.16 Towny Server.
 
 ## Statistics:
 <img align="left" width="400" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
