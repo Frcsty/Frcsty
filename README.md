@@ -1,4 +1,4 @@
-### Hello there, I'm Frosty <p align="right"> <img src="https://komarev.com/ghpvc/?username=frcsty" alt="frcsty" /> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/573153691771863057/835882096811704350/unknown.png" alt="banner" /> </p>
 
 ## Information:
 My name is Frosty, and I'm an 19 year old developer from Slovenia. I am currently learning Java, <br /> 
