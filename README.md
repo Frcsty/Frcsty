@@ -15,7 +15,7 @@ I am currently a contributor in two organizations, first being [op65n](https://o
 
 ## Statistics:
 <img align="left" size="300px" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
-<img align="left" size="300px" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
+<img align="left" size="350px" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
