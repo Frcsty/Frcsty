@@ -14,8 +14,8 @@ If you wish to contact me, you can do so by either <br>
 I am currently a contributor in two organizations, first being [op65n](https://op65n.org) which creates Open Sourced plugins and utilities for a server called Minecraft.si, and the second being [CraftYourTown](https://craftyourtown.com) which is a 1.16 Towny Server.
 
 ## Statistics:
-<img align="left" height="150px" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
-<img align="left" height="150px" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
+<img align="left" height="170px" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
+<img align="left" height="170px" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
