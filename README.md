@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://imgur.com/TfKRanZ" alt="banner" /> </p>
+<p align="center"> <img src="[https://imgur.com/TfKRanZ](https://cdn.discordapp.com/attachments/558961834598727698/987870714411495495/FrostyTwitterHeader.png)" alt="banner" /> </p>
 
 ## Information:
 Hello there, my name is Frosty, and I'm a 20 year old student who dabbles with development in his spare time. I have been involved in Minecraft Plugin development for around three years so far, with a hint of non-Minecraft related development as well. During my time learning Java (and some Kotlin as well, with a hint of C#, C++ and Go), I have made countless plugins varying from simple utilities, smaller feature additions, to even full-blown gamemodes. As most of my projects are commissions done for other people, they are not always Open Sourced, however I try my best to share the source if possible. At the current state of time I'm working on my own World Generation implementation using Cubic and Perlin noise, as well as creating content for various servers. <br />
