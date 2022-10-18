@@ -17,5 +17,7 @@ I am currently a contributor in [op65n](https://op65n.org) which creates Open So
 <img align="left" height="170px" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
 <img align="left" height="170px" alt="Frosty's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frcsty&theme=dark&hide_border=true&layout=default" />
 
+[![@Frcsty's Holopin board](https://holopin.me/Frcsty)](https://holopin.io/@Frcsty)
+
 [twitter]: https://twitter.com/prime_frosty
 [discord]: Frosty#3308
