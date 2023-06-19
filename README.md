@@ -6,8 +6,8 @@ Hello there, my name is Frosty, and I'm a 21 year old software developer from Sl
 <br>
 
 ## Contact Me:
-If you wish to contact me, you can do so by either <br>
-* [Discord][discord] | Frosty#3308<br />
+If you wish to contact me, you can do so on<br>
+* [Discord][discord] | .frcsty<br />
 
 ## Statistics:
 <img align="left" height="170px" alt="Frosty's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Frcsty&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true" /> 
@@ -15,4 +15,4 @@ If you wish to contact me, you can do so by either <br>
 
 [![@Frcsty's Holopin board](https://holopin.me/Frcsty)](https://holopin.io/@Frcsty)
 
-[discord]: Frosty#3308
+[discord]: .frcsty
